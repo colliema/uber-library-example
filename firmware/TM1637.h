@@ -34,7 +34,7 @@
 /**************definitions for brightness***********************/ 
 #define  BRIGHT_DARKEST 0 
 #define  BRIGHT_TYPICAL 2 
-37 #define  BRIGHTEST      7 
+#define  BRIGHTEST      7 
 
 class TM1637 
 { 
